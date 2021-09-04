@@ -1,6 +1,7 @@
-## Overview
+# Overview
 Href to my repositories
-# Admins
+## Admins
+[troubleshooting simple web servers all in one](https://github.com/Kuzminih/Troubleshooting)\
 [MDADM for create Raid](https://github.com/Kuzminih/AdminLinuxOtus/tree/master/02-mdadm#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%B0%D0%B2%D0%BB%D0%B8%D0%B2%D0%B0%D0%B5%D0%BC-%D0%BF%D0%BE)\
 [LVM snapshots](https://github.com/Kuzminih/AdminLinuxOtus/tree/master/03-FS_lvm#%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-lvm-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-snapshot-%D0%B2%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%82%D0%BE%D0%BC%D0%B0-%D1%87%D0%B5%D1%80%D0%B5%D0%B7-%D1%81%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA-%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0)\
 [work with NFS](https://github.com/Kuzminih/AdminLinuxOtus/tree/master/04-NFS#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0-%D0%B8-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%B0-network-file-system-nfs)\

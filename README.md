@@ -36,7 +36,7 @@ Href to my repositories
 [bash scripts to add LEMP sites !!fork!!](https://github.com/Kuzminih/create-lemp-site)\
 
 ## My learning 
-[My Learning]https://github.com/Kuzminih/MyLerning
+[My Learning](https://github.com/Kuzminih/MyLerning)
 
 
 

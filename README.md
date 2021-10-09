@@ -31,11 +31,12 @@ Href to my repositories
 [docker](https://github.com/Kuzminih/docker)\
 [Create docker images example with nginx alpine](https://github.com/Kuzminih/vagrant_new/tree/main/otus-linux-2-11)\
 [shield from ddos with nginx docker file](https://github.com/Kuzminih/vagrant_new/tree/main/otus-linux-3-28)\
-add many more reps i'm need to add in github ))
+
 \
 [bash scripts to add LEMP sites !!fork!!](https://github.com/Kuzminih/create-lemp-site)\
 
-
+## My learning 
+[My Learning]https://github.com/Kuzminih/MyLerning
 
 
 
